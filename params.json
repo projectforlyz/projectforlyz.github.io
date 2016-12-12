@@ -1,6 +1,6 @@
 {
   "name": "Projectforlyz.GitHub.io",
   "tagline": "projects for yunzhi li",
-  "body": "#This is a page for the projects of yunzhi li",
+  "body": "[project1](https://github.com/projectforlyz/project1) \r\n[project2](https://github.com/projectforlyz/project2)\r\n[project3](https://github.com/projectforlyz/project3)\r\n[project4](https://github.com/projectforlyz/project4)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
